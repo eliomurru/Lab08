@@ -124,8 +124,8 @@ Lab08/
 ├── model/
 │   ├── __init__.py
 │   ├── model.py (DA MODIFICARE) 
-│   ├── consumo_DTO.py (DA MODIFICARE)
-│   └── impianto_DTO.py
+│   ├── consumo_DTO.py 
+│   └── impianto_DTO.py (DA MODIFICARE)
 │
 ├── UI/
 │   ├── __init__.py
